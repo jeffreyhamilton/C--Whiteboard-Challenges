@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WhiteBoardChallanges
+namespace WhiteboardChallenges
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //White Board Challanges
+            //Whiteboard Challenges
 
             //FIZZ BUZZ
             for(int i = 0; i <=  100; i++)
